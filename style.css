@@ -18,6 +18,11 @@ a:hover {
     color: #659ACF;
 }
 
+#LinkedIn-trick {
+    display: none;
+}
+
+
 /* ---=== Header ===--- */
 
 header {
